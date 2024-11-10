@@ -1,7 +1,3 @@
-Here's a sample README file for your BERT-based text classification project on GitHub:
-
----
-
 # BERT-based Text Classification
 
 This project uses a pretrained BERT model to perform text classification on a custom dataset. We fine-tune BERT for a multi-class classification task, leveraging PyTorch and Hugging Face's Transformers library. The model achieves high accuracy and F1 score over several epochs, demonstrating its efficacy in text classification tasks.
@@ -122,6 +118,3 @@ with torch.no_grad():
 - [Hugging Face](https://huggingface.co/transformers/) for the Transformers library.
 - [PyTorch](https://pytorch.org/) for deep learning tools.
 
----
-
-This README outlines the process and code for setting up, training, and evaluating a BERT model for text classification.
